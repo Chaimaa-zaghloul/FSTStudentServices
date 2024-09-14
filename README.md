@@ -23,19 +23,19 @@ Here are a few screenshots showcasing the platform's interface and functionality
 ![Home Page](https://github.com/Chaimaa-zaghloul/FSTStudentServices/blob/main/FSTStudentServices/WEB_SITE_IMAGES/3.png)  
 *Preview of the Home Page*
 
-![Login Screen](https://github.com/OmarNouih/FSTStudentServices/blob/main/WEB_SITE_IMAGES/4.png)  
+![Login Screen](https://github.com/Chaimaa-zaghloul/FSTStudentServices/blob/main/FSTStudentServices/WEB_SITE_IMAGES/4.png)  
 *Login Screen for Students*
 
-![Administrator Dashboard](https://github.com/OmarNouih/FSTStudentServices/blob/main/WEB_SITE_IMAGES/1.png)  
+![Administrator Dashboard](https://github.com/Chaimaa-zaghloul/FSTStudentServices/blob/main/FSTStudentServices/WEB_SITE_IMAGES/1.png)  
 *Administrator Dashboard Preview*
 
-![Administrator Control Panel](https://github.com/OmarNouih/FSTStudentServices/blob/main/WEB_SITE_IMAGES/2.png)  
+![Administrator Control Panel](https://github.com/Chaimaa-zaghloul/FSTStudentServices/blob/main/FSTStudentServices/WEB_SITE_IMAGES/2.png)  
 *Administrator Control Panel Overview*
 
-![E-Document Management](https://github.com/OmarNouih/FSTStudentServices/blob/main/WEB_SITE_IMAGES/5.png)  
+![E-Document Management](https://github.com/Chaimaa-zaghloul/FSTStudentServices/blob/main/FSTStudentServices/WEB_SITE_IMAGES/5.png)  
 *E-Document Management Interface*
 
-![E-Scolarité Services](https://github.com/OmarNouih/FSTStudentServices/blob/main/WEB_SITE_IMAGES/6.png)  
+![E-Scolarité Services](https://github.com/Chaimaa-zaghloul/FSTStudentServices/blob/main/FSTStudentServices/WEB_SITE_IMAGES/6.png)  
 *E-Scolarité Services Interface*
 
 ## Setup Instructions
