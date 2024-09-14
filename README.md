@@ -1,58 +1,65 @@
-# FST CHAOUIA
+# FST CHAOUIA  
 # FST Student Services
 
-Welcome to the FST Student Services! This repository houses the source code for our web-based platform designed to simplify and enhance the academic and administrative experiences for students and faculty members of FST. Built using Java Enterprise Edition (JEE), HTML5, CSS3, and JavaScript, our application offers a robust solution for accessing academic resources, course schedules, and campus events.
+Welcome to the repository for **FST Student Services**, a web platform designed to improve the academic and administrative workflows for students and faculty at FST CHAOUIA. This project is built using **Java EE**, **HTML5**, **CSS3**, and **JavaScript**, providing a comprehensive system to easily access academic resources, schedules, and campus events.
 
-## Features
+## Key Features
 
-- **User Authentication**: Secure login systems for students and administrators.
-- **Academic Resources**: Easy access to course materials, schedules, and academic advisories.
-- **Event Management**: Up-to-date information on upcoming campus events and activities.
-- **Administrative Services**: Streamlined access to essential administrative functions and faculties.
+- **Secure Authentication**: Robust login functionality for both students and administrators.
+- **Access to Academic Resources**: Simplified retrieval of course materials, academic schedules, and advisory content.
+- **Event Management**: Real-time updates on upcoming university events and activities.
+- **Administrative Tools**: Easy access to administrative functions, including faculty and student services.
 
 ## Project Overview
 
-For a detailed overview of the project scope, objectives, and methodologies, please refer to the project description document provided below:
+For an in-depth look at the project’s objectives, scope, and implementation approach, refer to the full project description:
 
-[FST Student Services Project Description (PDF)](https://github.com/OmarNouih/FSTStudentServices/blob/main/Description.pdf)
+[Download the FST Student Services Project Description (PDF)](https://github.com/OmarNouih/FSTStudentServices/blob/main/Description.pdf)
 
+## Visual Demo
 
-## Visual Preview
+Here are a few screenshots showcasing the platform's interface and functionality:
 
-![Home Page](https://github.com/OmarNouih/FSTStudentServices/blob/main/WEB_SITE_IMAGES/3.png)
-*Screenshot of the Home Page*
+![Home Page](https://github.com/OmarNouih/FSTStudentServices/blob/main/WEB_SITE_IMAGES/3.png)  
+*Preview of the Home Page*
 
-![Login Page](https://github.com/OmarNouih/FSTStudentServices/blob/main/WEB_SITE_IMAGES/4.png)
-*Screenshot of the Login Page for Students*
+![Login Screen](https://github.com/OmarNouih/FSTStudentServices/blob/main/WEB_SITE_IMAGES/4.png)  
+*Login Screen for Students*
 
-![Admin Panel](https://github.com/OmarNouih/FSTStudentServices/blob/main/WEB_SITE_IMAGES/1.png)
+![Administrator Dashboard](https://github.com/OmarNouih/FSTStudentServices/blob/main/WEB_SITE_IMAGES/1.png)  
+*Administrator Dashboard Preview*
 
-![Admin Panel](https://github.com/OmarNouih/FSTStudentServices/blob/main/WEB_SITE_IMAGES/2.png)
-*Screenshot of the Administrator Control Panel*
+![Administrator Control Panel](https://github.com/OmarNouih/FSTStudentServices/blob/main/WEB_SITE_IMAGES/2.png)  
+*Administrator Control Panel Overview*
 
-![E-Document Section](https://github.com/OmarNouih/FSTStudentServices/blob/main/WEB_SITE_IMAGES/5.png)
-*E-Document Management*
+![E-Document Management](https://github.com/OmarNouih/FSTStudentServices/blob/main/WEB_SITE_IMAGES/5.png)  
+*E-Document Management Interface*
 
-![E-Scolarité Section](https://github.com/OmarNouih/FSTStudentServices/blob/main/WEB_SITE_IMAGES/6.png)
-*E-Scolarité Services*
+![E-Scolarité Services](https://github.com/OmarNouih/FSTStudentServices/blob/main/WEB_SITE_IMAGES/6.png)  
+*E-Scolarité Services Interface*
 
-## Getting Started
+## Setup Instructions
 
-Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+Follow these steps to install and run the project locally for development and testing purposes.
 
-### Prerequisites
+### Requirements
 
-- JDK 1.8 or higher
+Before starting, make sure you have the following installed:
+
+- JDK version 1.8 or newer
 - Apache Tomcat 9.x
-- MySQL Server 5.7 or higher
-- Apache Maven for project dependency management
+- MySQL Server 5.7+
+- Apache Maven for managing project dependencies
 
-### Installation
+### Installation Guide
 
-1. **Clone the repository**
+1. **Clone the Repository**
+
    ```bash
    git clone https://github.com/yourusername/FSTStudentServices.git
    cd FSTStudentServices
+
+
    ```
 
 2. **Build the project**
@@ -80,10 +87,10 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ## Authors
 
-- **NOUIH OMAR**
 - **ZAGHLOUL CHAIMAA**
+- **NOUIH OMAR**
+  
 
-## Acknowledgments
+## Special Thanks
 
-- Thanks to all the contributors who have invested their time in helping to make this project a reality.
-- Special thanks to our project supervisor Mr. Youssef El MORABIT for guidance and invaluable insights.
+We extend our gratitude to everyone who contributed to this project. A special acknowledgment goes to Mr. Youssef El MORABIT, our project supervisor, for his invaluable guidance and support.
