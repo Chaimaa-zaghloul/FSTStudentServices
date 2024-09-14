@@ -20,7 +20,7 @@ For an in-depth look at the project’s objectives, scope, and implementation ap
 
 Here are a few screenshots showcasing the platform's interface and functionality:
 
-![Home Page](https://github.com/OmarNouih/FSTStudentServices/blob/main/WEB_SITE_IMAGES/3.png)  
+![Home Page](https://github.com/Chaimaa-zaghloul/FSTStudentServices/blob/main/FSTStudentServices/WEB_SITE_IMAGES/3.png)  
 *Preview of the Home Page*
 
 ![Login Screen](https://github.com/OmarNouih/FSTStudentServices/blob/main/WEB_SITE_IMAGES/4.png)  
